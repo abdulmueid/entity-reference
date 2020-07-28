@@ -1,0 +1,21 @@
+{
+    "name": "abdulmueid/entity-reference",
+    "description": "Entity-Reference Generator for SIMO Banking System (Mozambique)",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abdul Mueid Akhtar",
+            "email": "abdul.mueid@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "abdulmueid\\EntityReference\\": "src/"
+        }
+    }
+}
