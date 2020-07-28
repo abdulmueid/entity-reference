@@ -1,4 +1,4 @@
-##Entity Reference Generator
+## Entity Reference Generator
 This library generates Payment References for use with SIMO Banking System (Mozambique)
 
 ### Installation
