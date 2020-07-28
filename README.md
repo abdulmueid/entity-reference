@@ -2,8 +2,10 @@
 This library generates Payment References for use with SIMO Banking System (Mozambique)
 
 ### Installation
-Use composer to install
-```composer require abdulmueid/entity-reference```
+Install using composer
+```shell script
+composer require abdulmueid/entity-reference
+```
 
 ### Usage
 Here is a sample:
